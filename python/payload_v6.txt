@@ -1,0 +1,17 @@
+{
+   "documento":"35077857000194",
+   "nsu":1,
+   "tipoPessoa": "PJ",
+   "tipoPagamento": "A",
+   "trxPos":1500.00,
+   "trxAcum":10000,
+   "trxMes":5000000.00,
+   "trxHorario":"1330",
+   "renda":90000,
+   "faturamento":100000,
+   "cnae":3313901,
+   "porte":"ME",
+   "mccRisco":"F",
+   "csnu":"F",
+   "fronteira":"F"
+}
